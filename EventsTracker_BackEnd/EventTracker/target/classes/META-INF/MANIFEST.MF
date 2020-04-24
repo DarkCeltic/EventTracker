@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: kenneth
+Build-Jdk: 13.0.2
+Implementation-Title: EventTracker
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.event_tracker
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/EventTracker
+Created-By: Maven Integration for Eclipse
+
